@@ -1,1 +1,2 @@
-# Python_Projects
+# Python Data Analysis Project
+This repository contains a comprehensive Python project focused on data analysis. Utilizing libraries such as Pandas, NumPy and Matplotlib. The project demonstrates data cleaning, manipulation, and visualization techniques. Additionally, it includes Jupyter Notebooks that provide a step-by-step walkthrough of exploratory data analysis (EDA) and basic machine learning models, showcasing the power of Python in extracting meaningful insights from raw data.
